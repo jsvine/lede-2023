@@ -1,0 +1,12 @@
+nbexec
+black
+flake8
+isort
+pandas
+requests
+lxml
+cssselect
+beautifulsoup4
+jupyter
+jupyterlab
+RISE
